@@ -25,9 +25,9 @@
   <a href="http://api.whatsapp.com/send?phone=5562993298751" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" target="_blank">
   <a href="mailto: daniellucas_santos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/daniel-lucas-dos-santos-657b34221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  
   <br>
-
+  ![Snake animation](https://github.com/Daniel-LucasS/Daniel-LucasS/blob/output/github-contribution-grid-snake.svg)
+   </div>
 
 <!--
 **Daniel-LucasS/Daniel-LucasS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
