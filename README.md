@@ -28,7 +28,10 @@
   <br>
    
    </div>
-<!--![Snake animation](https://github.com/Daniel-LucasS/Daniel-LucasS/blob/output/github-contribution-grid-snake.svg)-->
+   
+   
+   
+![Snake animation](https://github.com/Daniel-LucasS/Daniel-LucasS/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
