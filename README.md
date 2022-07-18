@@ -1,11 +1,11 @@
-## Olá, Mundo! Eu sou o Daniel Lucas, estudante de Sistemas de Informação e apaixonado por tecnologia
+## Olá, Mundo! Eu sou o Daniel Lucas, estudante de Analíse e Desenvolvimento de Sistemas e apaixonado por tecnologia
 <!--<div>
  <img align="center" height="400" width="800" src="https://github.com/Daniel-LucasS/DanProjects/blob/main/Daniel%20Lucas.gif" alt="Profile_dan">
   </div>-->
   <div>
     <h2> Linguagens e Ferramentas: </h2>
   </div>
-<div align="center" >
+<div >
   <a href="https://github.com/Daniel-LucasS">
   <img  height="160em" width="450" src="https://github-readme-stats.vercel.app/api?username=danlucss&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img  height="120em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlucss&layout=compact&langs_count=4&theme=chartreuse-dark"/>
@@ -24,7 +24,7 @@
 <div>
  <br>
  <!-- Sessão Sobre -->
-  <h2> Sobre:</h2>
+  <h2> Contato</h2>
   <a href="mailto: daniellucas.bio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank"></a>
   <a href="http://api.whatsapp.com/send?phone=5562993298751" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" target="_blank">
   <a href="mailto: daniellucas_santos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
