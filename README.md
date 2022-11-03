@@ -26,7 +26,7 @@
  <!-- Sessão Sobre -->
   <h2> Contato</h2>
   <a href="mailto: daniellucas.bio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank"></a>
-  <a href="[http://api.whatsapp.com/send?phone=5562993298751](https://api.whatsapp.com/send?phone=5562995193282&text=Ol%C3%A1!%20Gostaria%20de%20entrar%20em%20contato!)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" target="_blank">
+  <a href="[Whatsapp]([https://api.whatsapp.com/send?phone=5562995193282&text=Ol%C3%A1!%20Gostaria%20de%20entrar%20em%20contato!](https://api.whatsapp.com/send?phone=5562995193282&text=Ol%C3%A1!%20Gostaria%20de%20entrar%20em%20contato!))" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" target="_blank">
   <a href="mailto: daniellucas_santos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/danlucss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <br>
